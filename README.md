@@ -33,3 +33,5 @@ Run 'npm test' to execute tests
 If you have any questions, feel free to reach out:
 - GitHub: [josephllanos](https://github.com/josephllanos)
 - Email: josephllanos0220@gmail.com
+
+Walkthrough Video: https://drive.google.com/file/d/1-uEzcocmsnuEGudZiisIMncWrj_xCy2t/view
