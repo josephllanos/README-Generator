@@ -1,0 +1,17 @@
+{
+  "name": "readme-generator-2",
+  "version": "1.0.0",
+  "description": "A command-line tool to generate professional README files",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests available\" && exit 0"
+  },
+  "keywords": ["README", "generator", "CLI", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.4.3"
+  }
+}

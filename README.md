@@ -1,5 +1,5 @@
 
-# My readme generator
+# readme-generator
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -31,7 +31,7 @@ Run 'npm test' to execute tests
 
 ## Questions
 If you have any questions, feel free to reach out:
-- GitHub: [josephllanos](https://github.com/josephllanos)
+- GitHub: josephllanos
 - Email: josephllanos0220@gmail.com
 
 Walkthrough Video: https://drive.google.com/file/d/1-uEzcocmsnuEGudZiisIMncWrj_xCy2t/view
